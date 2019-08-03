@@ -1,3 +1,8 @@
+# Warning !!
+Use code at your Risk, just after forking I found out yowsup -- base from this project -- stated the following:
+It seems that recently yowsup gets detected during registration resulting in an instant ban for your number right after registering with the code you receive by sms/voice. I'd strongly recommend to not attempt registration through yowsup until I look further into this. 
+
+
 # mac (Whatsapp framework) 
 ![Version](https://img.shields.io/badge/version-1.1.0-brightgreen.svg?style=flat-square)
 ![Version](https://img.shields.io/badge/release-beta-green.svg?style=flat-square)
